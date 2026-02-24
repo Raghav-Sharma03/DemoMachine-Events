@@ -1,4 +1,4 @@
-# Backend Intern Assignment – Buyogo
+# Backend Intern Assignment 
 
 ## Overview
 
